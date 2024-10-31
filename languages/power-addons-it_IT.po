@@ -1,0 +1,2271 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Power VC Add-on\n"
+"POT-Creation-Date: 2017-02-21 13:35+0330\n"
+"PO-Revision-Date: 2017-02-21 13:46+0330\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: power-vc-add-on.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: it_IT\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/admin-page/index.php:70
+msgid "Welcome to"
+msgstr ""
+
+#: admin/admin-page/index.php:72
+msgid ""
+"is now installed and ready to use! Get ready to build something beautiful."
+msgstr ""
+
+#: admin/admin-page/index.php:77
+msgid "Version"
+msgstr ""
+
+#: admin/admin-page/index.php:86
+msgid "Documentation"
+msgstr ""
+
+#: admin/admin-page/index.php:90
+msgid ""
+"Our documentation is simple and functional wit full details and cover all "
+"essential aspects from beginning to the most advanced parts."
+msgstr ""
+
+#: admin/admin-page/index.php:93
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: admin/admin-page/index.php:101
+msgid "Support Forum"
+msgstr ""
+
+#: admin/admin-page/index.php:105
+msgid ""
+"Webnus is elite and trusted author with high percentage of satisfied user. "
+"If you have any issues please don't hesitate to contact us, we will reply as "
+"soon as possible."
+msgstr ""
+
+#: admin/admin-page/index.php:108
+msgid "OPEN A TICKET"
+msgstr ""
+
+#: admin/admin-page/index.php:118
+msgid "Changelog (Updates)"
+msgstr ""
+
+#: admin/vc-template/custom-group.php:14 admin/vc-template/custom-group.php:107
+msgid "Power add-on"
+msgstr ""
+
+#: admin/vc-template/custom-group.php:21 admin/vc-template/custom-group.php:27
+#: admin/vc-template/custom-group.php:114
+#: admin/vc-template/custom-group.php:120
+msgid "Parallax"
+msgstr ""
+
+#: admin/vc-template/custom-group.php:22 admin/vc-template/custom-group.php:115
+msgid "Add parallax type background for row."
+msgstr ""
+
+#: admin/vc-template/custom-group.php:26 admin/vc-template/custom-group.php:119
+#: public/elements/vcmaps/pricing-plan-vcmap.php:69
+msgid "None"
+msgstr ""
+
+#: admin/vc-template/custom-group.php:34 admin/vc-template/custom-group.php:127
+msgid "Background image"
+msgstr ""
+
+#: admin/vc-template/custom-group.php:37 admin/vc-template/custom-group.php:130
+msgid "Select image from background."
+msgstr ""
+
+#: admin/vc-template/custom-group.php:46 admin/vc-template/custom-group.php:139
+msgid "Parallax Speed"
+msgstr ""
+
+#: admin/vc-template/custom-group.php:50 admin/vc-template/custom-group.php:143
+msgid "Very Slow"
+msgstr ""
+
+#: admin/vc-template/custom-group.php:51 admin/vc-template/custom-group.php:144
+msgid "Slow"
+msgstr ""
+
+#: admin/vc-template/custom-group.php:52 admin/vc-template/custom-group.php:145
+msgid "Normal"
+msgstr ""
+
+#: admin/vc-template/custom-group.php:53 admin/vc-template/custom-group.php:146
+msgid "Fast"
+msgstr ""
+
+#: admin/vc-template/custom-group.php:54 admin/vc-template/custom-group.php:147
+msgid "Very Fast"
+msgstr ""
+
+#: power-vc-add-on.php:47
+msgid ""
+"<strong>Power Addons</strong> requires <strong><a href=\"http://bit.ly/"
+"vcomposer\" target=\"_blank\">Visual Composer</a></strong> plugin to be "
+"installed and activated on your site."
+msgstr ""
+
+#: public/elements/parts/blogloop-masonry.php:46
+#: public/elements/parts/blogloop-type2.php:64
+#: public/elements/parts/blogloop-type3.php:65
+msgid "View Post"
+msgstr ""
+
+#: public/elements/parts/blogloop-timeline.php:17
+msgid "Posted at: "
+msgstr ""
+
+#: public/elements/parts/blogloop-timeline.php:61
+msgid "No Comments"
+msgstr ""
+
+#: public/elements/parts/blogloop-timeline.php:61
+msgid "1 Comment"
+msgstr ""
+
+#: public/elements/parts/blogloop-timeline.php:61
+msgid "% Comments"
+msgstr ""
+
+#: public/elements/parts/blogloop-type2.php:60
+#: public/elements/parts/blogloop.php:89
+#: public/elements/shortcodes/latest-from-blog.php:343
+#: public/elements/shortcodes/latest-from-blog.php:364
+msgid "Read More"
+msgstr ""
+
+#: public/elements/parts/blogloop.php:74
+msgid "Write By:"
+msgstr ""
+
+#: public/elements/parts/blogloop.php:98
+msgid "Posted by"
+msgstr ""
+
+#: public/elements/parts/blogloop.php:100
+#: public/elements/shortcodes/categorybox.php:91
+#: public/elements/shortcodes/latest-from-blog.php:131
+msgid "in"
+msgstr ""
+
+#: public/elements/shortcodes/categorybox.php:88
+#: public/elements/shortcodes/categorybox.php:121
+#: public/elements/shortcodes/latest-from-blog.php:85
+#: public/elements/shortcodes/latest-from-blog.php:131
+#: public/elements/shortcodes/latest-from-blog.php:262
+msgid "by"
+msgstr ""
+
+#: public/elements/shortcodes/countdown.php:28
+msgid "DAYS"
+msgstr ""
+
+#: public/elements/shortcodes/countdown.php:29
+msgid "HRS"
+msgstr ""
+
+#: public/elements/shortcodes/countdown.php:30
+msgid "MIN"
+msgstr ""
+
+#: public/elements/shortcodes/countdown.php:31
+msgid "SEC"
+msgstr ""
+
+#: public/elements/shortcodes/countdown.php:35
+msgid "Days"
+msgstr ""
+
+#: public/elements/shortcodes/countdown.php:36
+msgid "Hours"
+msgstr ""
+
+#: public/elements/shortcodes/countdown.php:37
+msgid "Minutes"
+msgstr ""
+
+#: public/elements/shortcodes/countdown.php:38
+msgid "Seconds"
+msgstr ""
+
+#: public/elements/shortcodes/latest-from-blog.php:106
+msgid "Written by"
+msgstr ""
+
+#: public/elements/shortcodes/latest-from-blog.php:158
+msgid "by "
+msgstr ""
+
+#: public/elements/shortcodes/latest-from-blog.php:158
+msgid " in "
+msgstr ""
+
+#: public/elements/shortcodes/latest-from-blog.php:175
+#: public/elements/shortcodes/latest-from-blog.php:223
+msgid "readmore"
+msgstr ""
+
+#: public/elements/shortcodes/latest-from-blog.php:177
+msgid "by: "
+msgstr ""
+
+#: public/elements/shortcodes/latest-from-blog.php:179
+#: public/elements/shortcodes/latest-from-blog.php:201
+#: public/elements/shortcodes/latest-from-blog.php:238
+msgid " Comment"
+msgstr ""
+
+#: public/elements/shortcodes/latest-from-blog.php:179
+#: public/elements/shortcodes/latest-from-blog.php:201
+#: public/elements/shortcodes/latest-from-blog.php:238
+msgid " Comments"
+msgstr ""
+
+#: public/elements/shortcodes/latest-from-blog.php:200
+msgid "in "
+msgstr ""
+
+#: public/elements/shortcodes/latest-from-blog.php:234
+msgid "In "
+msgstr ""
+
+#: public/elements/shortcodes/latest-from-blog.php:285
+msgid "BY"
+msgstr ""
+
+#: public/elements/shortcodes/latest-from-blog.php:346
+msgid "By"
+msgstr ""
+
+#: public/elements/shortcodes/ministry.php:24
+msgid "director"
+msgstr ""
+
+#: public/elements/shortcodes/subscribe.php:18
+msgid "YOUR E-MAIL"
+msgstr ""
+
+#: public/elements/shortcodes/subscribe.php:18
+msgid "SUBSCRIBE"
+msgstr ""
+
+#: public/elements/shortcodes/teaser-box.php:29
+msgid "understand more"
+msgstr ""
+
+#: public/elements/vcmaps/alert-vcmap.php:7
+#: public/elements/vcmaps/box-carousel-vcmap.php:7
+#: public/elements/vcmaps/button-vcmap.php:6
+#: public/elements/vcmaps/buy-process-vcmap.php:7
+#: public/elements/vcmaps/callout-vcmap.php:39
+#: public/elements/vcmaps/categorybox-vcmap.php:85
+#: public/elements/vcmaps/countdown-vcmap.php:8
+#: public/elements/vcmaps/distance-vcmap.php:7
+#: public/elements/vcmaps/donate-vcmap.php:16
+#: public/elements/vcmaps/dropcap-vcmap.php:7
+#: public/elements/vcmaps/googlemap-vcmap.php:17
+#: public/elements/vcmaps/grand-title-vcmap.php:7
+#: public/elements/vcmaps/icon-vcmap.php:8
+#: public/elements/vcmaps/iconbox-vcmap.php:8
+#: public/elements/vcmaps/icondivider-vcmap.php:9
+#: public/elements/vcmaps/imagecarousel-vcmap.php:7
+#: public/elements/vcmaps/latestblogs-vcmap.php:16
+#: public/elements/vcmaps/link-vcmap.php:7
+#: public/elements/vcmaps/list-vcmap.php:7
+#: public/elements/vcmaps/maxtitle-vcmap.php:6
+#: public/elements/vcmaps/ministry-vcmap.php:6
+#: public/elements/vcmaps/our-process-vcmap.php:7
+#: public/elements/vcmaps/ourclients-vcmap.php:30
+#: public/elements/vcmaps/ourteam-vcmap.php:6
+#: public/elements/vcmaps/post-blog-vcmap.php:6
+#: public/elements/vcmaps/pricing-plan-vcmap.php:7
+#: public/elements/vcmaps/pricing-tables-vcmap.php:7
+#: public/elements/vcmaps/quote-vcmap.php:35
+#: public/elements/vcmaps/socials-vcmap.php:7
+#: public/elements/vcmaps/subscribe-vcmap.php:7
+#: public/elements/vcmaps/subtitle-vcmap.php:6
+#: public/elements/vcmaps/teaserbox-vcmap.php:4
+#: public/elements/vcmaps/testimonial-carousel-vcmap.php:7
+#: public/elements/vcmaps/testimonial-vcmap.php:6
+#: public/elements/vcmaps/testimonialitem-vcmap.php:74
+#: public/elements/vcmaps/testimonialslider-vcmap.php:40
+#: public/elements/vcmaps/toggle-box-vcmap.php:7
+#: public/elements/vcmaps/tooltip-vcmap.php:6
+#: public/elements/vcmaps/videoplay-vcmap.php:8
+#: public/elements/vcmaps/webnusdivider-vcmap.php:8
+msgid "Power VC Shortcodes"
+msgstr ""
+
+#: public/elements/vcmaps/alert-vcmap.php:12
+#: public/elements/vcmaps/distance-vcmap.php:12
+#: public/elements/vcmaps/grand-title-vcmap.php:11
+#: public/elements/vcmaps/iconbox-vcmap.php:12
+#: public/elements/vcmaps/latestblogs-vcmap.php:20
+#: public/elements/vcmaps/latestblogs-vcmap.php:41
+#: public/elements/vcmaps/maxtitle-vcmap.php:11
+#: public/elements/vcmaps/ministry-vcmap.php:12
+#: public/elements/vcmaps/ourclients-vcmap.php:35
+#: public/elements/vcmaps/ourteam-vcmap.php:12
+#: public/elements/vcmaps/post-blog-vcmap.php:12
+#: public/elements/vcmaps/post-blog-vcmap.php:23
+#: public/elements/vcmaps/pricing-plan-vcmap.php:11
+#: public/elements/vcmaps/pricing-tables-vcmap.php:12
+#: public/elements/vcmaps/subscribe-vcmap.php:11
+#: public/elements/vcmaps/subtitle-vcmap.php:11
+#: public/elements/vcmaps/teaserbox-vcmap.php:10
+#: public/elements/vcmaps/testimonial-vcmap.php:12
+#: public/elements/vcmaps/testimonialslider-vcmap.php:49
+#: public/elements/vcmaps/toggle-box-vcmap.php:11
+#: public/elements/vcmaps/webnusdivider-vcmap.php:12
+msgid "Type"
+msgstr ""
+
+#: public/elements/vcmaps/alert-vcmap.php:21
+msgid "Alert Type"
+msgstr ""
+
+#: public/elements/vcmaps/alert-vcmap.php:25
+msgid "Has Close?"
+msgstr ""
+
+#: public/elements/vcmaps/alert-vcmap.php:28
+msgid "Has Close Button?"
+msgstr ""
+
+#: public/elements/vcmaps/alert-vcmap.php:32
+msgid "Alert Content"
+msgstr ""
+
+#: public/elements/vcmaps/alert-vcmap.php:35
+#: public/elements/vcmaps/tooltip-vcmap.php:21
+msgid "Contet Goes Here"
+msgstr ""
+
+#: public/elements/vcmaps/box-carousel-vcmap.php:3
+#: public/elements/vcmaps/box-carousel-vcmap.php:5
+msgid "Box Carousel"
+msgstr ""
+
+#: public/elements/vcmaps/box-carousel-vcmap.php:11
+msgid "Box Item"
+msgstr ""
+
+#: public/elements/vcmaps/box-carousel-vcmap.php:12
+msgid "Please Add Your service"
+msgstr ""
+
+#: public/elements/vcmaps/box-carousel-vcmap.php:18
+msgid "Box Title"
+msgstr ""
+
+#: public/elements/vcmaps/box-carousel-vcmap.php:19
+msgid "Please enter your title"
+msgstr ""
+
+#: public/elements/vcmaps/box-carousel-vcmap.php:26
+msgid "Box Content"
+msgstr ""
+
+#: public/elements/vcmaps/box-carousel-vcmap.php:27
+#: public/elements/vcmaps/box-carousel-vcmap.php:34
+msgid "Please enter your content"
+msgstr ""
+
+#: public/elements/vcmaps/box-carousel-vcmap.php:33
+#: public/elements/vcmaps/imagecarousel-vcmap.php:25
+msgid "Select image"
+msgstr ""
+
+#: public/elements/vcmaps/box-carousel-vcmap.php:41
+#: public/elements/vcmaps/imagecarousel-vcmap.php:10
+msgid "Carousel Items"
+msgstr ""
+
+#: public/elements/vcmaps/box-carousel-vcmap.php:42
+#: public/elements/vcmaps/imagecarousel-vcmap.php:11
+msgid "Please enter carousel items to show"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:11
+msgid "Shape"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:18
+msgid "Button Type"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:23
+#: public/elements/vcmaps/donate-vcmap.php:21
+#: public/elements/vcmaps/grand-title-vcmap.php:130
+#: public/elements/vcmaps/iconbox-vcmap.php:132
+#: public/elements/vcmaps/pricing-plan-vcmap.php:57
+#: public/elements/vcmaps/quote-vcmap.php:29
+#: public/elements/vcmaps/teaserbox-vcmap.php:108
+#: public/elements/vcmaps/testimonial-vcmap.php:42
+#: public/elements/vcmaps/testimonialitem-vcmap.php:103
+#: public/elements/vcmaps/toggle-box-vcmap.php:34
+#: public/elements/vcmaps/toggle-box-vcmap.php:112
+msgid "Content"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:26
+#: public/elements/vcmaps/donate-vcmap.php:24
+msgid "Button Text Content"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:31
+msgid "URL"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:34
+msgid "Button URL Link"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:39
+msgid "Target"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:41
+msgid "Button URL Target"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:52
+#: public/elements/vcmaps/donate-vcmap.php:37
+#: public/elements/vcmaps/testimonial-vcmap.php:67
+#: public/elements/vcmaps/webnusdivider-vcmap.php:55
+msgid "Color"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:54
+#: public/elements/vcmaps/donate-vcmap.php:55
+msgid "Button Color"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:77
+#: public/elements/vcmaps/donate-vcmap.php:60
+msgid "Size"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:79
+#: public/elements/vcmaps/donate-vcmap.php:68
+msgid "Button Size"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:89
+msgid "Font Weight"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:91
+msgid "Please select your desired font weight"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:100
+#: public/elements/vcmaps/donate-vcmap.php:73
+msgid "Bordered?"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:103
+#: public/elements/vcmaps/donate-vcmap.php:76
+msgid "Is button bordered?"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:108
+#: public/elements/vcmaps/buy-process-vcmap.php:33
+#: public/elements/vcmaps/donate-vcmap.php:80
+#: public/elements/vcmaps/icon-vcmap.php:72
+#: public/elements/vcmaps/iconbox-vcmap.php:250
+#: public/elements/vcmaps/icondivider-vcmap.php:23
+#: public/elements/vcmaps/our-process-vcmap.php:33
+#: public/elements/vcmaps/toggle-box-vcmap.php:123
+#: public/elements/vcmaps/webnusdivider-vcmap.php:64
+msgid "Icon"
+msgstr ""
+
+#: public/elements/vcmaps/button-vcmap.php:111
+#: public/elements/vcmaps/donate-vcmap.php:83
+msgid "Select Button Icon"
+msgstr ""
+
+#: public/elements/vcmaps/buy-process-vcmap.php:3
+#: public/elements/vcmaps/buy-process-vcmap.php:5
+msgid "Buy Process"
+msgstr ""
+
+#: public/elements/vcmaps/buy-process-vcmap.php:10
+#: public/elements/vcmaps/our-process-vcmap.php:10
+msgid "Process Item"
+msgstr ""
+
+#: public/elements/vcmaps/buy-process-vcmap.php:11
+msgid ""
+"If you want this element cover whole page width, please add it inside of a "
+"full row. For this purpose, click on edit button of the row and set Select "
+"Row Type on Full Width Row."
+msgstr ""
+
+#: public/elements/vcmaps/buy-process-vcmap.php:17
+#: public/elements/vcmaps/our-process-vcmap.php:17
+msgid "Process Title"
+msgstr ""
+
+#: public/elements/vcmaps/buy-process-vcmap.php:25
+#: public/elements/vcmaps/our-process-vcmap.php:25
+msgid "Process Content"
+msgstr ""
+
+#: public/elements/vcmaps/buy-process-vcmap.php:40
+#: public/elements/vcmaps/our-process-vcmap.php:42
+msgid "Select icon from library."
+msgstr ""
+
+#: public/elements/vcmaps/buy-process-vcmap.php:44
+msgid "Line number ( or text )"
+msgstr ""
+
+#: public/elements/vcmaps/buy-process-vcmap.php:51
+msgid "Porcess style"
+msgstr ""
+
+#: public/elements/vcmaps/buy-process-vcmap.php:55
+msgid "Default Porcess"
+msgstr ""
+
+#: public/elements/vcmaps/buy-process-vcmap.php:56
+msgid "Featured Porcess"
+msgstr ""
+
+#: public/elements/vcmaps/buy-process-vcmap.php:65
+#: public/elements/vcmaps/googlemap-vcmap.php:159
+#: public/elements/vcmaps/toggle-box-vcmap.php:57
+msgid "Background Color"
+msgstr ""
+
+#: public/elements/vcmaps/buy-process-vcmap.php:69
+msgid "Select custom background color"
+msgstr ""
+
+#: public/elements/vcmaps/callout-vcmap.php:12
+#: public/elements/vcmaps/categorybox-vcmap.php:30
+#: public/elements/vcmaps/iconbox-vcmap.php:106
+#: public/elements/vcmaps/maxtitle-vcmap.php:41
+#: public/elements/vcmaps/pricing-plan-vcmap.php:23
+#: public/elements/vcmaps/pricing-tables-vcmap.php:28
+#: public/elements/vcmaps/subscribe-vcmap.php:22
+#: public/elements/vcmaps/subtitle-vcmap.php:43
+#: public/elements/vcmaps/teaserbox-vcmap.php:34
+#: public/elements/vcmaps/toggle-box-vcmap.php:76
+msgid "Title"
+msgstr ""
+
+#: public/elements/vcmaps/callout-vcmap.php:15
+msgid "Enter the Callout title"
+msgstr ""
+
+#: public/elements/vcmaps/callout-vcmap.php:19
+#: public/elements/vcmaps/pricing-tables-vcmap.php:125
+msgid "Button Text"
+msgstr ""
+
+#: public/elements/vcmaps/callout-vcmap.php:22
+msgid "Callout Button text"
+msgstr ""
+
+#: public/elements/vcmaps/callout-vcmap.php:26
+msgid "Button Link"
+msgstr ""
+
+#: public/elements/vcmaps/callout-vcmap.php:29
+msgid "Button Link URL"
+msgstr ""
+
+#: public/elements/vcmaps/callout-vcmap.php:33
+msgid "Content Text"
+msgstr ""
+
+#: public/elements/vcmaps/callout-vcmap.php:36
+msgid "Enter the Callout content text"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:23
+#: public/elements/vcmaps/latestblogs-vcmap.php:45
+#: public/elements/vcmaps/post-blog-vcmap.php:28
+msgid "Category"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:26
+msgid "Select specific category"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:33
+msgid "Set title"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:37
+msgid "Show title"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:40
+msgid "Show/Hide title"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:44
+msgid "Posts count"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:47
+msgid "How many posts to dispaly?"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:51
+msgid "Show date"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:54
+msgid "Show/Hide date"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:59
+msgid "Show category"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:62
+msgid "Show/Hide category"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:66
+msgid "Show author"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:69
+msgid "Show/Hide author"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:72
+#: public/elements/vcmaps/post-blog-vcmap.php:43
+msgid "Order By"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:76
+#: public/elements/vcmaps/post-blog-vcmap.php:47
+msgid "Date (Latest Posts)"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:77
+#: public/elements/vcmaps/post-blog-vcmap.php:48
+msgid "Popular posts: Comment Count"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:78
+#: public/elements/vcmaps/post-blog-vcmap.php:49
+msgid "Popular posts: View Count"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:79
+#: public/elements/vcmaps/post-blog-vcmap.php:50
+msgid "Popular Posts: Social Score"
+msgstr ""
+
+#: public/elements/vcmaps/categorybox-vcmap.php:81
+#: public/elements/vcmaps/post-blog-vcmap.php:52
+msgid ""
+"If you use \"Social Post Score\" type, then Social Metrics Tracker plugin "
+"must be activated via Apperance > Install Plugins."
+msgstr ""
+
+#: public/elements/vcmaps/countdown-vcmap.php:12
+msgid "Style"
+msgstr ""
+
+#: public/elements/vcmaps/countdown-vcmap.php:20
+msgid "Select Countdown Type"
+msgstr ""
+
+#: public/elements/vcmaps/countdown-vcmap.php:24
+msgid "Date and Time"
+msgstr ""
+
+#: public/elements/vcmaps/countdown-vcmap.php:27
+msgid "Enter date and time (11October 2016 9:00)"
+msgstr ""
+
+#: public/elements/vcmaps/countdown-vcmap.php:31
+#: public/elements/vcmaps/countdown-vcmap.php:34
+msgid "Finished text"
+msgstr ""
+
+#: public/elements/vcmaps/countdown-vcmap.php:38
+#: public/elements/vcmaps/iconbox-vcmap.php:144
+msgid "Content color (leave bank for default color)"
+msgstr ""
+
+#: public/elements/vcmaps/countdown-vcmap.php:41
+#: public/elements/vcmaps/iconbox-vcmap.php:147
+msgid "Select content color"
+msgstr ""
+
+#: public/elements/vcmaps/distance-vcmap.php:22
+msgid ""
+"How much empty space would you like to add?<br><br>Distance 1 => height: "
+"20px<br>Distance 2 => height: 40px<br>Distance 3 => height: 60px<br>Distance "
+"4 => height: 80px<br>Distance 5 => height: 100px"
+msgstr ""
+
+#: public/elements/vcmaps/donate-vcmap.php:9
+msgid "No contact forms found"
+msgstr ""
+
+#: public/elements/vcmaps/donate-vcmap.php:29
+msgid "Select contact form"
+msgstr ""
+
+#: public/elements/vcmaps/donate-vcmap.php:32
+msgid "Choose previously created contact form from the drop down list."
+msgstr ""
+
+#: public/elements/vcmaps/dropcap-vcmap.php:12
+msgid "Dropcap Type"
+msgstr ""
+
+#: public/elements/vcmaps/dropcap-vcmap.php:19
+msgid "Specify the Dropcap type"
+msgstr ""
+
+#: public/elements/vcmaps/dropcap-vcmap.php:24
+msgid "Dropcap Character"
+msgstr ""
+
+#: public/elements/vcmaps/dropcap-vcmap.php:27
+msgid "Specify the Dropcap Text"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:13
+msgid "Webnus GoogleMaps"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:14
+#: public/elements/vcmaps/googlemap-vcmap.php:203
+msgid "Google map"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:21
+msgid "Google Map API"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:22
+msgid ""
+"You should create an API for yourself and put code here. red below link to "
+"more info:  <a href=\"https://console.developers.google.com/flows/enableapi?"
+"apiid=maps_backend,geocoding_backend,directions_backend,"
+"distance_matrix_backend,elevation_backend,"
+"places_backend&keyType=CLIENT_SIDE&reusekey=true\" target=\"_blank\">Here</"
+"a><br><br>"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:24
+#: public/elements/vcmaps/googlemap-vcmap.php:32
+#: public/elements/vcmaps/googlemap-vcmap.php:41
+#: public/elements/vcmaps/googlemap-vcmap.php:50
+#: public/elements/vcmaps/googlemap-vcmap.php:59
+#: public/elements/vcmaps/googlemap-vcmap.php:68
+#: public/elements/vcmaps/googlemap-vcmap.php:77
+#: public/elements/vcmaps/googlemap-vcmap.php:86
+#: public/elements/vcmaps/googlemap-vcmap.php:100
+#: public/elements/vcmaps/googlemap-vcmap.php:109
+#: public/elements/vcmaps/googlemap-vcmap.php:118
+#: public/elements/vcmaps/googlemap-vcmap.php:127
+#: public/elements/vcmaps/googlemap-vcmap.php:136
+#: public/elements/vcmaps/googlemap-vcmap.php:145
+#: public/elements/vcmaps/googlemap-vcmap.php:154
+#: public/elements/vcmaps/googlemap-vcmap.php:162
+#: public/elements/vcmaps/googlemap-vcmap.php:170
+#: public/elements/vcmaps/googlemap-vcmap.php:180
+msgid "General"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:28
+msgid "Map center Latitude"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:29
+msgid "please enter map center Latitude<br/><br/>"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:37
+msgid "Map center Longitude"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:38
+msgid "please enter map center Longitude<br/><br/>"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:46
+msgid "Zoom"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:47
+msgid "Default map zoom level. (1-19)<br/><br/>"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:55
+msgid "Zoom After click on marker"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:56
+msgid "Default map zoom level after click on marker. (1-19)<br/><br/>"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:64
+msgid "Width"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:65
+msgid "Set to 0 is the full width. (0-960)<br/><br/>"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:73
+msgid "Height"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:74
+msgid "Default is 400.<br/><br/>"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:82
+msgid "Display Map Types"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:83
+msgid ""
+"You can see Map Types <a href=\"https://developers.google.com/maps/"
+"documentation/javascript/maptypes\" target=\"_blank\">Here</a><br>"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:90
+msgid "Select Map Types"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:91
+msgid "Select your map type.<br/><br/>"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:94
+msgid "Roadmap"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:95
+msgid "Terrain (load with Roadmap type)"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:96
+msgid "Satellite"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:97
+msgid "Hybrid (load with Satellite type)"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:105
+msgid "Enable Draggable feature"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:106
+msgid ""
+"Enable Draggable feature. see <a href=\"https://developers.google.com/maps/"
+"documentation/javascript/markers#draggable\" target=\"_blank\">Here</a> for "
+"more information.<br/><br/>"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:114
+msgid "Enable Drop Animation"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:116
+msgid ""
+"Drop Animation for markers. see <a href=\"https://developers.google.com/maps/"
+"documentation/javascript/examples/marker-animations\" target=\"_blank"
+"\">Here</a> for more information.<br/><br/>"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:123
+msgid "Enable Zoom Control"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:125
+msgid ""
+"The Zoom control displays \"+\" and \"-\" buttons for changing the zoom "
+"level of the map.<br/><br/>"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:132
+msgid "Enable Scrollwheel"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:134
+msgid ""
+"This feature stops zoom in/out your map when your page scrolls up and down "
+"from Google map section, so only the page will scroll.<br/><br/>"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:141
+msgid "Enable Street View Control"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:143
+msgid ""
+"You can see Documentation <a href=\"https://developers.google.com/maps/"
+"documentation/ios-sdk/streetview\" target=\"_blank\">Here</a><br/><br/>"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:150
+msgid "Enable Scale Control"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:152
+msgid ""
+"You can see Documentation <a href=\"https://developers.google.com/maps/"
+"documentation/javascript/controls#DefaultUI\" target=\"_blank\">Here</a><br/"
+"><br/>"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:161
+msgid "Select map background color."
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:167
+msgid "Hue"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:169
+msgid ""
+"You can see Hue example <a href=\"https://developers.google.com/maps/"
+"documentation/javascript/styling\" target=\"_blank\">Here</a><br/><br/>"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:176
+msgid "Custom Marker"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:177
+msgid ""
+"You can select an image for your marker. if you want seperate marker for "
+"eack point, you should set it in Addresses tab."
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:185
+msgid "Info Box Title"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:186
+msgid "Information Box title"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:189
+#: public/elements/vcmaps/googlemap-vcmap.php:198
+msgid "Information Box"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:194
+msgid "Info Box Description"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:195
+msgid "Information Box Description"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:204
+msgid " Please Add Your Item "
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:210
+msgid " Latitude "
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:211
+msgid " Please enter your Latitude "
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:219
+msgid " Longitude "
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:220
+msgid " Please enter your Longitude "
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:228
+msgid " Address/Info "
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:229
+msgid ""
+" Please enter your Address or information about this point. It Appears after "
+"click on Icon marker."
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:235
+msgid " Location Title "
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:236
+#: public/elements/vcmaps/googlemap-vcmap.php:244
+msgid " Define the place with a location, and a query string "
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:243
+msgid " Location Website "
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:251
+msgid "Custom point Marker"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:252
+msgid "You can select an image for your marker seperately"
+msgstr ""
+
+#: public/elements/vcmaps/googlemap-vcmap.php:257
+msgid "Addresses"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:3
+#: public/elements/vcmaps/grand-title-vcmap.php:5
+msgid "Grand Title"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:18
+#: public/elements/vcmaps/grand-title-vcmap.php:30
+msgid "Choose your type"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:22
+msgid "Text Align"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:34
+msgid "Top Title"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:37
+#: public/elements/vcmaps/grand-title-vcmap.php:109
+msgid "Please write top title"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:46
+msgid "Color for Top Title"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:49
+msgid "Select Top Title color"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:58
+msgid "Main Title - part 1"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:61
+msgid "Please write Main Title - part 1"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:70
+msgid "Main Title - part 2"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:73
+msgid "Please write Main Title - part 2"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:82
+msgid "Color for Main Title - part 1"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:85
+msgid "Select Main Title - part 1 color"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:94
+msgid "Color for Main Title - part 2"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:97
+msgid "Select Main Title - part 2 color"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:106
+msgid "Top Title 2"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:118
+msgid "Main Title"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:121
+msgid "Please write Main Title"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:133
+#: public/elements/vcmaps/teaserbox-vcmap.php:111
+#: public/elements/vcmaps/toggle-box-vcmap.php:37
+#: public/elements/vcmaps/toggle-box-vcmap.php:115
+msgid "Please write Content"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:142
+#: public/elements/vcmaps/maxtitle-vcmap.php:55
+#: public/elements/vcmaps/subtitle-vcmap.php:66
+msgid "Use theme default font family?"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:145
+#: public/elements/vcmaps/iconbox-vcmap.php:77
+#: public/elements/vcmaps/iconbox-vcmap.php:88
+#: public/elements/vcmaps/iconbox-vcmap.php:98
+#: public/elements/vcmaps/iconbox-vcmap.php:244
+#: public/elements/vcmaps/maxtitle-vcmap.php:58
+#: public/elements/vcmaps/maxtitle-vcmap.php:66
+#: public/elements/vcmaps/pricing-tables-vcmap.php:143
+#: public/elements/vcmaps/socials-vcmap.php:15
+#: public/elements/vcmaps/subtitle-vcmap.php:69
+msgid "Yes"
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:147
+#: public/elements/vcmaps/maxtitle-vcmap.php:60
+#: public/elements/vcmaps/subtitle-vcmap.php:71
+msgid "Use font family from the theme."
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:155
+#: public/elements/vcmaps/maxtitle-vcmap.php:76
+#: public/elements/vcmaps/subtitle-vcmap.php:79
+msgid "Select font family."
+msgstr ""
+
+#: public/elements/vcmaps/grand-title-vcmap.php:156
+#: public/elements/vcmaps/maxtitle-vcmap.php:77
+#: public/elements/vcmaps/subtitle-vcmap.php:80
+msgid "Select font styling."
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:13
+#: public/elements/vcmaps/videoplay-vcmap.php:21
+msgid "Icon Size"
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:16
+#: public/elements/vcmaps/iconbox-vcmap.php:197
+msgid "Icon size in px format, Example: 16px"
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:21
+#: public/elements/vcmaps/icondivider-vcmap.php:14
+#: public/elements/vcmaps/videoplay-vcmap.php:29
+msgid "Icon color"
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:24
+#: public/elements/vcmaps/iconbox-vcmap.php:229
+#: public/elements/vcmaps/icondivider-vcmap.php:17
+#: public/elements/vcmaps/videoplay-vcmap.php:32
+msgid "Select icon color"
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:29
+msgid "Icon Link URL"
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:32
+msgid "Icon link URL http:// "
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:37
+msgid "Icon Link Class"
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:40
+msgid "Icon link Class "
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:45
+msgid "Custom background color"
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:48
+msgid "Select background color"
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:52
+msgid "Padding"
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:55
+msgid "Example: 20px"
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:59
+msgid "Border Radius"
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:62
+msgid "Border Radius, Example: 8px or 50%"
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:66
+msgid "Extra class name"
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:68
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: public/elements/vcmaps/icon-vcmap.php:75
+#: public/elements/vcmaps/iconbox-vcmap.php:253
+#: public/elements/vcmaps/icondivider-vcmap.php:26
+#: public/elements/vcmaps/toggle-box-vcmap.php:126
+#: public/elements/vcmaps/webnusdivider-vcmap.php:67
+msgid "Select Icon"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:44
+#: public/elements/vcmaps/ourteam-vcmap.php:22
+#: public/elements/vcmaps/pricing-plan-vcmap.php:12
+#: public/elements/vcmaps/pricing-tables-vcmap.php:13
+#: public/elements/vcmaps/testimonial-vcmap.php:21
+msgid "You can choose among these pre-designed types."
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:49
+msgid "Background color style"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:50
+msgid "Select background color style ."
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:61
+msgid "Align"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:62
+msgid "Please choose align, Left or Right"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:65
+msgid "Left"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:66
+msgid "right"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:75
+msgid "Featured Iconbox ?"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:78
+msgid "Iconbox Featured Plan"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:86
+msgid "Remove left border?"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:96
+msgid "Remove right border?"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:109
+msgid "IconBox Title"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:113
+#: public/elements/vcmaps/teaserbox-vcmap.php:74
+#: public/elements/vcmaps/testimonialitem-vcmap.php:96
+#: public/elements/vcmaps/toggle-box-vcmap.php:64
+msgid "Subtitle"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:116
+msgid "IconBox Subtitle"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:124
+msgid "Title color (leave bank for default color)"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:127
+#: public/elements/vcmaps/ministry-vcmap.php:41
+msgid "Select title color"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:135
+msgid "IconBox Content Goes Here"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:157
+#: public/elements/vcmaps/link-vcmap.php:19
+#: public/elements/vcmaps/pricing-plan-vcmap.php:87
+#: public/elements/vcmaps/pricing-plan-vcmap.php:90
+msgid "Link Text"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:160
+msgid "IconBox Link Text"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:170
+#: public/elements/vcmaps/link-vcmap.php:12
+#: public/elements/vcmaps/ourteam-vcmap.php:60
+#: public/elements/vcmaps/pricing-plan-vcmap.php:95
+#: public/elements/vcmaps/teaserbox-vcmap.php:94
+msgid "Link URL"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:173
+msgid "IconBox Link URL (http://example.com)"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:182
+msgid "Link color (leave bank for default color)"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:185
+msgid "Select link color"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:194
+msgid "Icon Size (leave blank for default size)"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:202
+msgid "Minimum Background Color Height"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:205
+msgid "Height size in px format, Example: 250px"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:214
+msgid "Icon Background Color"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:217
+msgid "Select Icon Background Color"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:226
+msgid "Icon color (leave bank for default color)"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:235
+#: public/elements/vcmaps/teaserbox-vcmap.php:27
+#: public/elements/vcmaps/testimonial-vcmap.php:34
+#: public/elements/vcmaps/testimonialitem-vcmap.php:89
+msgid "Image"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:238
+msgid ""
+"Select Image instead of Icons.<br>Note: If you have another Icon that not is "
+"here. You can put PNG image of that instead of these Icons."
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:242
+#: public/elements/vcmaps/maxtitle-vcmap.php:64
+msgid "White text color"
+msgstr ""
+
+#: public/elements/vcmaps/iconbox-vcmap.php:245
+#: public/elements/vcmaps/maxtitle-vcmap.php:67
+msgid "Flip content"
+msgstr ""
+
+#: public/elements/vcmaps/imagecarousel-vcmap.php:3
+#: public/elements/vcmaps/imagecarousel-vcmap.php:5
+msgid "Webnus Image Carousel"
+msgstr ""
+
+#: public/elements/vcmaps/imagecarousel-vcmap.php:18
+msgid "Image Item"
+msgstr ""
+
+#: public/elements/vcmaps/imagecarousel-vcmap.php:19
+msgid "Please Add Your image"
+msgstr ""
+
+#: public/elements/vcmaps/imagecarousel-vcmap.php:26
+msgid "Please Select Your Desired image"
+msgstr ""
+
+#: public/elements/vcmaps/latestblogs-vcmap.php:48
+#: public/elements/vcmaps/post-blog-vcmap.php:31
+msgid "Select specific category, leave blank to show all categories."
+msgstr ""
+
+#: public/elements/vcmaps/latestblogs-vcmap.php:52
+msgid "Convert To Carousel"
+msgstr ""
+
+#: public/elements/vcmaps/latestblogs-vcmap.php:53
+msgid "Do you want change this type to carousle?"
+msgstr ""
+
+#: public/elements/vcmaps/latestblogs-vcmap.php:63
+msgid "Number Of Posts"
+msgstr ""
+
+#: public/elements/vcmaps/latestblogs-vcmap.php:64
+msgid "please enter your desired number to show posts"
+msgstr ""
+
+#: public/elements/vcmaps/latestblogs-vcmap.php:74
+msgid "Count in row"
+msgstr ""
+
+#: public/elements/vcmaps/link-vcmap.php:15
+msgid "Link URL, Example: http://domain.com"
+msgstr ""
+
+#: public/elements/vcmaps/link-vcmap.php:22
+msgid "Link Text (Content)"
+msgstr ""
+
+#: public/elements/vcmaps/list-vcmap.php:12
+msgid "List Type"
+msgstr ""
+
+#: public/elements/vcmaps/list-vcmap.php:27
+msgid "Select the List Items type"
+msgstr ""
+
+#: public/elements/vcmaps/list-vcmap.php:32
+msgid "Items"
+msgstr ""
+
+#: public/elements/vcmaps/list-vcmap.php:35
+msgid "Enter list items, you can use [li]SomeText[/li]"
+msgstr ""
+
+#: public/elements/vcmaps/maxtitle-vcmap.php:12
+#: public/elements/vcmaps/subtitle-vcmap.php:12
+#: public/elements/vcmaps/webnusdivider-vcmap.php:25
+msgid "Title Type"
+msgstr ""
+
+#: public/elements/vcmaps/maxtitle-vcmap.php:25
+#: public/elements/vcmaps/subtitle-vcmap.php:27
+msgid "Heading"
+msgstr ""
+
+#: public/elements/vcmaps/maxtitle-vcmap.php:26
+#: public/elements/vcmaps/subtitle-vcmap.php:28
+msgid ""
+"Just for SEO<br>Note: it doesn\\'t change the size of the max title in the "
+"page."
+msgstr ""
+
+#: public/elements/vcmaps/maxtitle-vcmap.php:42
+#: public/elements/vcmaps/subtitle-vcmap.php:44
+msgid "Enter the title"
+msgstr ""
+
+#: public/elements/vcmaps/maxtitle-vcmap.php:48
+#: public/elements/vcmaps/subtitle-vcmap.php:51
+msgid "Text Color"
+msgstr ""
+
+#: public/elements/vcmaps/ministry-vcmap.php:18
+#: public/elements/vcmaps/subscribe-vcmap.php:18
+msgid "Select style type"
+msgstr ""
+
+#: public/elements/vcmaps/ministry-vcmap.php:23
+msgid "Ministry Name"
+msgstr ""
+
+#: public/elements/vcmaps/ministry-vcmap.php:26
+msgid "Ministry name"
+msgstr ""
+
+#: public/elements/vcmaps/ministry-vcmap.php:30
+msgid "Ministry Image"
+msgstr ""
+
+#: public/elements/vcmaps/ministry-vcmap.php:33
+msgid "Ministry image"
+msgstr ""
+
+#: public/elements/vcmaps/ministry-vcmap.php:37
+msgid "Main color (leave bank for default color)"
+msgstr ""
+
+#: public/elements/vcmaps/ministry-vcmap.php:45
+msgid "Ministry Description Text"
+msgstr ""
+
+#: public/elements/vcmaps/ministry-vcmap.php:48
+msgid "Ministry description text"
+msgstr ""
+
+#: public/elements/vcmaps/ministry-vcmap.php:52
+msgid "Ministry Director Name"
+msgstr ""
+
+#: public/elements/vcmaps/ministry-vcmap.php:56
+msgid "Ministry director name"
+msgstr ""
+
+#: public/elements/vcmaps/ministry-vcmap.php:60
+msgid "Ministry Director Image"
+msgstr ""
+
+#: public/elements/vcmaps/ministry-vcmap.php:64
+msgid "Ministry director image"
+msgstr ""
+
+#: public/elements/vcmaps/ministry-vcmap.php:68
+msgid "Ministry Link URL"
+msgstr ""
+
+#: public/elements/vcmaps/ministry-vcmap.php:71
+msgid "Ministry link url"
+msgstr ""
+
+#: public/elements/vcmaps/our-process-vcmap.php:3
+#: public/elements/vcmaps/our-process-vcmap.php:5
+msgid "Our Process"
+msgstr ""
+
+#: public/elements/vcmaps/our-process-vcmap.php:11
+msgid "Enter process items for our process - title, content and icon."
+msgstr ""
+
+#: public/elements/vcmaps/ourclients-vcmap.php:41
+msgid "OurClients Type"
+msgstr ""
+
+#: public/elements/vcmaps/ourclients-vcmap.php:45
+msgid "Clients Images"
+msgstr ""
+
+#: public/elements/vcmaps/ourclients-vcmap.php:48
+msgid "OurClients Images"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:27
+msgid "Team Image"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:30
+msgid "Team member image"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:35
+msgid "Team Memeber Name"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:38
+msgid "Team member name"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:43
+msgid "Team Memeber Title"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:46
+msgid "Team member title"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:51
+msgid "Team Memeber Description Text"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:54
+msgid "Team member description text"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:63
+msgid "Team member link url"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:67
+#: public/elements/vcmaps/testimonial-vcmap.php:74
+msgid "Social Icons"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:68
+#: public/elements/vcmaps/testimonial-vcmap.php:75
+msgid ""
+"By enabling this option, Member social networks links will appear.<br/><br/>"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:70
+#: public/elements/vcmaps/testimonial-vcmap.php:53
+#: public/elements/vcmaps/testimonial-vcmap.php:77
+msgid "Enable"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:77
+#: public/elements/vcmaps/testimonial-vcmap.php:85
+#: public/elements/vcmaps/testimonialitem-vcmap.php:111
+msgid "First Social Name"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:92
+#: public/elements/vcmaps/ourteam-vcmap.php:123
+#: public/elements/vcmaps/ourteam-vcmap.php:154
+#: public/elements/vcmaps/ourteam-vcmap.php:184
+#: public/elements/vcmaps/testimonial-vcmap.php:100
+#: public/elements/vcmaps/testimonial-vcmap.php:130
+#: public/elements/vcmaps/testimonial-vcmap.php:161
+#: public/elements/vcmaps/testimonial-vcmap.php:191
+#: public/elements/vcmaps/testimonialitem-vcmap.php:126
+#: public/elements/vcmaps/testimonialitem-vcmap.php:155
+#: public/elements/vcmaps/testimonialitem-vcmap.php:184
+#: public/elements/vcmaps/testimonialitem-vcmap.php:212
+msgid "Select Social Name"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:98
+#: public/elements/vcmaps/testimonial-vcmap.php:106
+#: public/elements/vcmaps/testimonialitem-vcmap.php:131
+msgid "First Social URL"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:101
+#: public/elements/vcmaps/testimonial-vcmap.php:109
+#: public/elements/vcmaps/testimonialitem-vcmap.php:134
+msgid "First social URL"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:107
+#: public/elements/vcmaps/testimonial-vcmap.php:115
+#: public/elements/vcmaps/testimonialitem-vcmap.php:139
+msgid "Second Social Name"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:129
+#: public/elements/vcmaps/testimonial-vcmap.php:136
+#: public/elements/vcmaps/testimonialitem-vcmap.php:160
+msgid "Second Social URL"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:132
+#: public/elements/vcmaps/testimonial-vcmap.php:139
+#: public/elements/vcmaps/testimonialitem-vcmap.php:163
+msgid "Second social URL"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:139
+#: public/elements/vcmaps/testimonial-vcmap.php:146
+#: public/elements/vcmaps/testimonialitem-vcmap.php:169
+msgid "Third Social Name"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:160
+#: public/elements/vcmaps/testimonial-vcmap.php:167
+#: public/elements/vcmaps/testimonialitem-vcmap.php:189
+msgid "Third Social URL"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:163
+#: public/elements/vcmaps/testimonial-vcmap.php:170
+#: public/elements/vcmaps/testimonialitem-vcmap.php:192
+msgid "Third social URL"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:169
+#: public/elements/vcmaps/testimonial-vcmap.php:176
+#: public/elements/vcmaps/testimonialitem-vcmap.php:197
+msgid "Fourth Social Name"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:190
+#: public/elements/vcmaps/testimonial-vcmap.php:197
+#: public/elements/vcmaps/testimonialitem-vcmap.php:217
+msgid "Fourth Social URL"
+msgstr ""
+
+#: public/elements/vcmaps/ourteam-vcmap.php:193
+#: public/elements/vcmaps/testimonial-vcmap.php:200
+#: public/elements/vcmaps/testimonialitem-vcmap.php:220
+msgid "Fourth social URL"
+msgstr ""
+
+#: public/elements/vcmaps/post-blog-vcmap.php:36
+msgid "Post Count"
+msgstr ""
+
+#: public/elements/vcmaps/post-blog-vcmap.php:39
+msgid "Number of post(s) to show"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:3
+msgid " Webnus Pricing Plan "
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:5
+msgid "Webnus Pricing Plan"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:16
+#: public/elements/vcmaps/pricing-tables-vcmap.php:17
+msgid "Type 1"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:17
+#: public/elements/vcmaps/pricing-tables-vcmap.php:18
+msgid "Type 2"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:26
+msgid "Enter title pricing table"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:30
+#: public/elements/vcmaps/pricing-tables-vcmap.php:92
+msgid "Features"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:35
+#: public/elements/vcmaps/pricing-tables-vcmap.php:98
+msgid "Feature Item Icon"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:39
+#: public/elements/vcmaps/pricing-tables-vcmap.php:102
+msgid "Empty"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:40
+#: public/elements/vcmaps/pricing-tables-vcmap.php:103
+msgid "Available"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:41
+#: public/elements/vcmaps/pricing-tables-vcmap.php:104
+msgid "Not Available"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:46
+#: public/elements/vcmaps/pricing-tables-vcmap.php:109
+msgid "Feature Item Text"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:60
+#: public/elements/vcmaps/pricing-plan-vcmap.php:73
+msgid "Enter the content Name"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:66
+msgid "Flag"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:70
+msgid "Featured"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:71
+msgid "Popular"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:79
+#: public/elements/vcmaps/pricing-tables-vcmap.php:51
+msgid "Price"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:82
+msgid "Enter the price Name"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-plan-vcmap.php:98
+msgid "Link URL (http://example.com)"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:19
+msgid "Type 3"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:20
+msgid "Type 4"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:21
+msgid "Type 5"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:22
+msgid "Type 6"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:23
+msgid "Type 7"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:29
+msgid "Pricing Table Title"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:35
+msgid "Header Description"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:36
+msgid "Pricing Table Description"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:43
+msgid "Featured text"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:52
+msgid "Pricing Table Price"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:59
+msgid "Special Offer"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:60
+msgid "Pricing Table Special Offer or On Sale Price"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:67
+msgid "Plan Label"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:68
+msgid "Pricing Table Label"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:76
+msgid "Label Color"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:77
+msgid "Select Custom Label Color"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:84
+msgid "Period"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:85
+msgid "Pricing Table Period"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:88
+msgid "Month"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:93
+msgid "Enter features for pricing table - value, title and color."
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:118
+msgid "Footer Pricing Table Text"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:132
+msgid "Button URL"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:133
+msgid "Button URL (http://example.com)"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:141
+msgid "Featured Plan ?"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:144
+msgid "Pricing Tables Featured Plan"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:148
+msgid "Plan Icon"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:159
+msgid "Heading Background Color"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:160
+msgid "Select Custom Background Color"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:167
+msgid "Heading Text Color"
+msgstr ""
+
+#: public/elements/vcmaps/pricing-tables-vcmap.php:168
+msgid "Select Custom Text Color"
+msgstr ""
+
+#: public/elements/vcmaps/quote-vcmap.php:12
+#: public/elements/vcmaps/testimonial-vcmap.php:26
+#: public/elements/vcmaps/testimonialitem-vcmap.php:82
+msgid "Name"
+msgstr ""
+
+#: public/elements/vcmaps/quote-vcmap.php:15
+msgid "Enter the Name"
+msgstr ""
+
+#: public/elements/vcmaps/quote-vcmap.php:19
+msgid "Name Subtitle"
+msgstr ""
+
+#: public/elements/vcmaps/quote-vcmap.php:22
+msgid "Enter the Name Subtitle"
+msgstr ""
+
+#: public/elements/vcmaps/quote-vcmap.php:32
+msgid "Enter the Quote of the Week content text"
+msgstr ""
+
+#: public/elements/vcmaps/socials-vcmap.php:3
+msgid " Webnus socials "
+msgstr ""
+
+#: public/elements/vcmaps/socials-vcmap.php:5
+msgid "Webnus socials"
+msgstr ""
+
+#: public/elements/vcmaps/socials-vcmap.php:11
+msgid "Show socials?"
+msgstr ""
+
+#: public/elements/vcmaps/socials-vcmap.php:12
+msgid "Do you want socials ?"
+msgstr ""
+
+#: public/elements/vcmaps/subscribe-vcmap.php:25
+msgid "Subscribe title"
+msgstr ""
+
+#: public/elements/vcmaps/subscribe-vcmap.php:31
+msgid "Subscribe Text"
+msgstr ""
+
+#: public/elements/vcmaps/subscribe-vcmap.php:33
+msgid "Subscribe content"
+msgstr ""
+
+#: public/elements/vcmaps/subscribe-vcmap.php:38
+msgid "Email Service"
+msgstr ""
+
+#: public/elements/vcmaps/subscribe-vcmap.php:44
+msgid "FeedBurner or MailChimp"
+msgstr ""
+
+#: public/elements/vcmaps/subscribe-vcmap.php:49
+msgid "FeedBurner ID"
+msgstr ""
+
+#: public/elements/vcmaps/subscribe-vcmap.php:52
+msgid "Feedburner ID"
+msgstr ""
+
+#: public/elements/vcmaps/subscribe-vcmap.php:58
+msgid "MailChimp URL"
+msgstr ""
+
+#: public/elements/vcmaps/subscribe-vcmap.php:61
+msgid "Mailchimp form action URL"
+msgstr ""
+
+#: public/elements/vcmaps/subtitle-vcmap.php:58
+#: public/elements/vcmaps/teaserbox-vcmap.php:52
+msgid "Border Color"
+msgstr ""
+
+#: public/elements/vcmaps/teaserbox-vcmap.php:23
+msgid "TeaserBox Type"
+msgstr ""
+
+#: public/elements/vcmaps/teaserbox-vcmap.php:30
+msgid "TeaserBox Image"
+msgstr ""
+
+#: public/elements/vcmaps/teaserbox-vcmap.php:37
+msgid "Enter the Title"
+msgstr ""
+
+#: public/elements/vcmaps/teaserbox-vcmap.php:41
+msgid "Border for Title"
+msgstr ""
+
+#: public/elements/vcmaps/teaserbox-vcmap.php:44
+msgid "Do you want border for title?"
+msgstr ""
+
+#: public/elements/vcmaps/teaserbox-vcmap.php:55
+msgid "Select color for border"
+msgstr ""
+
+#: public/elements/vcmaps/teaserbox-vcmap.php:63
+msgid "Featured Text"
+msgstr ""
+
+#: public/elements/vcmaps/teaserbox-vcmap.php:66
+msgid "Enter your text here"
+msgstr ""
+
+#: public/elements/vcmaps/teaserbox-vcmap.php:77
+msgid "Enter the Subtitle"
+msgstr ""
+
+#: public/elements/vcmaps/teaserbox-vcmap.php:97
+msgid "Enter the link url. Example: http://yourdomain.com"
+msgstr ""
+
+#: public/elements/vcmaps/teaserbox-vcmap.php:101
+msgid "Image alt"
+msgstr ""
+
+#: public/elements/vcmaps/teaserbox-vcmap.php:104
+msgid "Enter the image alt Text"
+msgstr ""
+
+#: public/elements/vcmaps/testimonial-carousel-vcmap.php:3
+#: public/elements/vcmaps/testimonial-carousel-vcmap.php:5
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: public/elements/vcmaps/testimonial-carousel-vcmap.php:13
+msgid "Testimonial Type"
+msgstr ""
+
+#: public/elements/vcmaps/testimonial-carousel-vcmap.php:23
+msgid "Testimonial Items Per View"
+msgstr ""
+
+#: public/elements/vcmaps/testimonial-carousel-vcmap.php:29
+msgid "Testimonial Items"
+msgstr ""
+
+#: public/elements/vcmaps/testimonial-carousel-vcmap.php:35
+#: public/elements/vcmaps/testimonial-vcmap.php:37
+#: public/elements/vcmaps/testimonialitem-vcmap.php:92
+msgid "Testimonial Image"
+msgstr ""
+
+#: public/elements/vcmaps/testimonial-carousel-vcmap.php:42
+msgid "Testimonial Content"
+msgstr ""
+
+#: public/elements/vcmaps/testimonial-carousel-vcmap.php:49
+msgid "Testimonial Name"
+msgstr ""
+
+#: public/elements/vcmaps/testimonial-carousel-vcmap.php:57
+msgid "Testimonial Job"
+msgstr ""
+
+#: public/elements/vcmaps/testimonial-vcmap.php:29
+#: public/elements/vcmaps/testimonialitem-vcmap.php:85
+msgid "Enter the Testimonial Name"
+msgstr ""
+
+#: public/elements/vcmaps/testimonial-vcmap.php:45
+#: public/elements/vcmaps/testimonialitem-vcmap.php:106
+msgid "Enter the Testimonial content text"
+msgstr ""
+
+#: public/elements/vcmaps/testimonial-vcmap.php:50
+msgid "Job"
+msgstr ""
+
+#: public/elements/vcmaps/testimonial-vcmap.php:51
+msgid "Please enter job <br/><br/>"
+msgstr ""
+
+#: public/elements/vcmaps/testimonial-vcmap.php:59
+msgid "Background"
+msgstr ""
+
+#: public/elements/vcmaps/testimonial-vcmap.php:62
+msgid "Select Background Color"
+msgstr ""
+
+#: public/elements/vcmaps/testimonial-vcmap.php:70
+msgid "Select Content Color"
+msgstr ""
+
+#: public/elements/vcmaps/testimonialitem-vcmap.php:99
+msgid "Testimonial Subtitle"
+msgstr ""
+
+#: public/elements/vcmaps/testimonialslider-vcmap.php:58
+msgid "Select Image"
+msgstr ""
+
+#: public/elements/vcmaps/toggle-box-vcmap.php:3
+msgid "Toggle box"
+msgstr ""
+
+#: public/elements/vcmaps/toggle-box-vcmap.php:5
+msgid "toggle box"
+msgstr ""
+
+#: public/elements/vcmaps/toggle-box-vcmap.php:17
+msgid "Please select type"
+msgstr ""
+
+#: public/elements/vcmaps/toggle-box-vcmap.php:22
+msgid "Service Title"
+msgstr ""
+
+#: public/elements/vcmaps/toggle-box-vcmap.php:25
+msgid "Please write Service Title"
+msgstr ""
+
+#: public/elements/vcmaps/toggle-box-vcmap.php:46
+msgid "Background Image"
+msgstr ""
+
+#: public/elements/vcmaps/toggle-box-vcmap.php:49
+msgid ""
+"Select Image for background<br>Note: If you have another Icon that not is "
+"here. You can put PNG image of that instead of these Icons."
+msgstr ""
+
+#: public/elements/vcmaps/toggle-box-vcmap.php:60
+msgid "Select Background color"
+msgstr ""
+
+#: public/elements/vcmaps/toggle-box-vcmap.php:67
+msgid "Please write Offer Subtitle"
+msgstr ""
+
+#: public/elements/vcmaps/toggle-box-vcmap.php:79
+msgid "Please write Offer Title"
+msgstr ""
+
+#: public/elements/vcmaps/toggle-box-vcmap.php:88
+msgid "Minimum Height"
+msgstr ""
+
+#: public/elements/vcmaps/toggle-box-vcmap.php:91
+msgid "Please Enter Minimum Height (just write number, like: 575)"
+msgstr ""
+
+#: public/elements/vcmaps/toggle-box-vcmap.php:100
+msgid "Do you want the content open as default?"
+msgstr ""
+
+#: public/elements/vcmaps/toggle-box-vcmap.php:101
+msgid "Please check to enable this feature. "
+msgstr ""
+
+#: public/elements/vcmaps/tooltip-vcmap.php:11
+msgid "Tooltip Text"
+msgstr ""
+
+#: public/elements/vcmaps/tooltip-vcmap.php:14
+msgid "Tooltip text goes here"
+msgstr ""
+
+#: public/elements/vcmaps/tooltip-vcmap.php:18
+msgid "Tooltip Content"
+msgstr ""
+
+#: public/elements/vcmaps/tooltip-vcmap.php:25
+msgid "Conten URL"
+msgstr ""
+
+#: public/elements/vcmaps/tooltip-vcmap.php:28
+msgid "Please enter content url"
+msgstr ""
+
+#: public/elements/vcmaps/videoplay-vcmap.php:13
+msgid "Video URL"
+msgstr ""
+
+#: public/elements/vcmaps/videoplay-vcmap.php:16
+msgid "YouTube/Vimeo URL"
+msgstr ""
+
+#: public/elements/vcmaps/videoplay-vcmap.php:24
+msgid "Icon size in px format, Example: 80px"
+msgstr ""
+
+#: public/elements/vcmaps/videoplay-vcmap.php:37
+msgid "Extra Class"
+msgstr ""
+
+#: public/elements/vcmaps/videoplay-vcmap.php:40
+msgid "Extra Class "
+msgstr ""
+
+#: public/elements/vcmaps/webnusdivider-vcmap.php:30
+msgid "Title Part 1"
+msgstr ""
+
+#: public/elements/vcmaps/webnusdivider-vcmap.php:33
+msgid "Enter the first span text "
+msgstr ""
+
+#: public/elements/vcmaps/webnusdivider-vcmap.php:38
+msgid "Title Part 2"
+msgstr ""
+
+#: public/elements/vcmaps/webnusdivider-vcmap.php:41
+msgid "Enter the second span text"
+msgstr ""
+
+#: public/elements/vcmaps/webnusdivider-vcmap.php:46
+msgid "Description"
+msgstr ""
+
+#: public/elements/vcmaps/webnusdivider-vcmap.php:49
+msgid "Enter the description text"
+msgstr ""
+
+#: public/elements/vcmaps/webnusdivider-vcmap.php:58
+msgid "Select color for icon and second span"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Power VC Add-on"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://webnus.net/plugins/power-vc/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Includes practical elements like Icon Box, Our Team, Our Process, Blog, "
+"Testimonials Carousel, Our Clients,... for Visual Composer plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webnus"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/webnus"
+msgstr ""
